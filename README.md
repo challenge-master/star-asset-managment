@@ -1,1 +1,1 @@
-# star-asset-managment
+https://challenge-master.github.io/star-asset-managment/
